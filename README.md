@@ -4,11 +4,20 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+
+---
 ### 👨‍💻 My 42 status
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?dark=true&login=fbulut)](https://github.com/Fatihcloud)
 [![mbari's 42 stats](https://badge42.herokuapp.com/api/stats/fbulut?cursus=C%20reloaded)](https://github.com/Fatihcloud)
-[![Fatih Bulut's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fatihcloud)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatihcloud)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+### 📈 My Github status:
+![Apoorv's github && 42 stats](https://github-readme-stats.vercel.app/api?username=Fatihcloud&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatihcloud&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fatihcloud&repo=42-piscine-exam&theme=radical)](https://github.com/Fatihcloud/42-piscine-exam)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fatihcloud&repo=Inception&theme=radical)](https://github.com/Fatihcloud/inception)
+
+
 
 <!---
 Fatihcloud/Fatihcloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
