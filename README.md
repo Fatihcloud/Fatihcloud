@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 [![Fatih Bulut's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fatihcloud)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ftaihcloud)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Fatihcloud/Fatihcloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
