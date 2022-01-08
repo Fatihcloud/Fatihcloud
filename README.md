@@ -29,7 +29,7 @@
 
 ### 📈 My Github status:
 ![Apoorv's github && 42 stats](https://github-readme-stats.vercel.app/api?username=Fatihcloud&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatihcloud&layout=compact&theme=radical)](https://github.com/Fatihcloud/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatihcloud&layout=compact&theme=radical)](https://github.com/Fatihcloud)
 
 <!---
 Fatihcloud/Fatihcloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
