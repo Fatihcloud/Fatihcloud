@@ -13,6 +13,7 @@
 ---
 
 ![Alt Text](https://github.com/Fatihcloud/Fatihcloud/blob/main/Animated.gif)
+![Alt Text](<iframe src="https://giphy.com/embed/KJ55z3cCqn576kAVDm" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/SuccessionHBO-tv-entertainment-succession-KJ55z3cCqn576kAVDm">via GIPHY</a></p>)
 
 ---
 
