@@ -21,7 +21,7 @@
 ---
 
 ### 👨‍💻 My 42 status
-[![42 Profile Card]([![42 Profil Kartı](https://1337-readme.vercel.app /api/profile?login=ozaazaa&cursus=42&email=hide )](https://github.com/mohouyizme/1337-readme))](https://profile.intra.42.fr/users/fbulut)
+[![42 Profile Card]([![42 Profil Kartı](https://1337-readme.vercel.app /api/profile?login=ozaazaa&cursus=42&email=hide )](https://github.com/mohouyizme/1337-readme))]
 [![mbari's 42 stats](https://badge42.herokuapp.com/api/stats/fbulut?cursus=C%20reloaded)](https://profile.intra.42.fr/users/fbulut)
 
 ---
