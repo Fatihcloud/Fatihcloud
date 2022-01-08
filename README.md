@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://github.com/barimehdi77/barimehdi77/blob/main/wave.gif" width="30px">
 -->
-![Header.png](https://github.com/barimehdi77/barimehdi77/blob/main/header.png)
+![Header.png](https://github.com/Fatihcloud/header/blob/main/header.jpg)
 <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=Fatihcloud&&color=blue&style=flat-square"></p>
 
 - 👋 Hi, I’m @Fatihcloud
