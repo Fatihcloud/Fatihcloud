@@ -12,7 +12,7 @@
 
 ---
 
-<img src="https://github.com/Fatihcloud/Fatihcloud/blob/main/Animated.gif"
+![Alt Text](https://github.com/Fatihcloud/Fatihcloud/blob/main/Animated.gif)
 
 ---
 
