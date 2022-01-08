@@ -1,15 +1,13 @@
 # Hello, folks! <img src="https://github.com/barimehdi77/barimehdi77/blob/main/wave.gif" width="30px">
+-->
+![Header.png](https://github.com/barimehdi77/barimehdi77/blob/main/header.png)
+<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=Fatihcloud&&color=blue&style=flat-square"></p>
 
 - 👋 Hi, I’m @Fatihcloud
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 
----
-
-![Header.png](https://github.com/Fatihcloud/header/blob/main/header.jpg)
-<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=Fatihcloud&&color=blue&style=flat-square"></p>
+- 📫 How to reach me [Instagram](https://www.instagram.com/fatihcloud/)
 
 ---
 [!["Buy Me A Pizza"](https://github.com/Fatihcloud/Fatihcloud/blob/main/orange_img(1).png)](https://www.buymeacoffee.com/Fatihcloud)
