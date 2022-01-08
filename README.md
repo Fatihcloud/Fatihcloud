@@ -21,7 +21,7 @@
 ---
 
 ### 👨‍💻 My 42 status
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?dark=true&login=fbulut)]()
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?dark=true&login=fbulut)](https://profile.intra.42.fr/users/fbulut)
 [![mbari's 42 stats](https://badge42.herokuapp.com/api/stats/fbulut?cursus=C%20reloaded)](https://profile.intra.42.fr/users/fbulut)
 
 ---
