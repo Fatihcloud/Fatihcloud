@@ -12,7 +12,7 @@
 
 ---
 
-[ha!](https://github.com/Fatihcloud/Fatihcloud/blob/main/Animated.gif)
+<img src="https://github.com/Fatihcloud/Fatihcloud/blob/main/Animated.gif"
 
 ---
 
