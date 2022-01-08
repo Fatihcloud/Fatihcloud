@@ -4,9 +4,8 @@
 <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=Fatihcloud&&color=blue&style=flat-square"></p>
 
 - 👋 Hi, I’m @Fatihcloud
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🔭 I’m currently working on a Project named **libft** you can check it [here](https://github.com/Fatihcloud/Libft)
+- 🌱 I’m currently learning : C , C++ , Arduino , Adobe Premiere Pro ,
 - 📫 How to reach me [Instagram](https://www.instagram.com/fatihcloud/) - [Twitter](https://twitter.com/fthblt66) - [LinkedIn](https://www.linkedin.com/in/fatih-bulut-b240ba137)
 
 ---
