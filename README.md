@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://github.com/Fatihcloud/Fatihcloud/blob/main/wave.gif" width="30px">
+# Hello, folks! <img src="https://github.com/barimehdi77/barimehdi77/blob/main/wave.gif" width="30px">
 
 - 👋 Hi, I’m @Fatihcloud
 - 👀 I’m interested in ...
