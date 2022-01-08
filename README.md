@@ -3,6 +3,9 @@
 
 ![Header.png](https://github.com/Fatihcloud/header/blob/main/header.jpg)
 <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=Fatihcloud&&color=blue&style=flat-square"></p>
+---
+
+[!["Bored?"](https://www.behance.net/gallery/86208593/Dino-Runner-AR/modules/500268423)
 
 - 👋 Hi, I’m @Fatihcloud
 - 🔭 I’m currently working on a Project named --**libft**-- you can check it [here](https://github.com/Fatihcloud/Libft)
@@ -11,9 +14,7 @@
 
 ---
 
-[!["Buy Me A Pizza"](https://github.com/Fatihcloud/Fatihcloud/blob/main/orange_img(1).png)](https://www.buymeacoffee.com/Fatihcloud)
-
-
+[!["Buy Me A Pizza"](https://github.com/Fatihcloud/Fatihcloud/blob/main/orange_img(1).png)](https://www.buymeacoffee.com/Fatihcloud
 ---
 
 ### 👨‍💻 My 42 status
