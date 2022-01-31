@@ -6,7 +6,7 @@
 ---
 
 - 👋 Hi, I’m @Fatihcloud
-- 🔭 I’m currently working on a Project named --**libft**-- you can check it [here](https://github.com/Fatihcloud/Libft)
+- 🔭 I’m currently working on a Project named --**Get_Next_Line**-- you can check it [here](https://github.com/Fatihcloud/Libft)
 - 🌱 I’m currently learning : C , C++ , Arduino , Adobe Premiere Pro ,
 - 📫 How to reach me [Instagram](https://www.instagram.com/fatihcloud/) - [Twitter](https://twitter.com/fthblt66) - [LinkedIn](https://www.linkedin.com/in/fatih-bulut-b240ba137)
 
