@@ -1,7 +1,7 @@
 # Hello, folks! <img src="https://github.com/barimehdi77/barimehdi77/blob/main/wave.gif" width="30px">
 ---
 
-![Alt Text](https://media.giphy.com/media/I6wjZUBMFcRn5U6zQF/giphy-downsized-large.gif)
+![Alt Text](https://github.com/Fatihcloud/Fatihcloud/blob/main/giphy.gif)
 <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=Fatihcloud&&color=blue&style=flat-square"></p>
 ---
 
