@@ -12,10 +12,6 @@
 
 ---
 
-![Alt Text](https://github.com/Fatihcloud/Fatihcloud/blob/main/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif)
-
----
-
 [!["Buy Me A Pizza"](https://github.com/Fatihcloud/Fatihcloud/blob/main/orange_img(1).png)](https://www.buymeacoffee.com/Fatihcloud)
 
 ---
