@@ -20,7 +20,7 @@
 ### 👨‍💻 My 42 status
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?dark=true&login=fbulut)](https://profile.intra.42.fr/users/fbulut)
 [![mbari's 42 stats](https://badge42.herokuapp.com/api/stats/fbulut?cursus=C%20reloaded)](https://profile.intra.42.fr/users/fbulut)
-[![fbulut 42Project Score](https://badge42.herokuapp.com/api/project/fbulut/ft_printf)](https://github.com/Fatihcloud/42ft_printf)
+[![fbulut 42Project Score](https://badge42.herokuapp.com/api/project/fbulut/libft)](https://github.com/Fatihcloud/42ft_printf)
 
 ---
 
