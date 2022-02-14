@@ -20,17 +20,16 @@
 ### 👨‍💻 My 42 status
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?dark=true&login=fbulut)](https://profile.intra.42.fr/users/fbulut)
 [![mbari's 42 stats](https://badge42.herokuapp.com/api/stats/fbulut?cursus=C%20reloaded)](https://profile.intra.42.fr/users/fbulut)
-[![fbulut 42Project Score](https://badge42.herokuapp.com/api/project/fbulut/libft)](https://github.com/Fatihcloud/42ft_printf)
 
 ---
 
 ## 42cursus Progress 💪🏻
 | No  | Project                                     | Status |   | No  | Project                                   | Status |   | No  | Project                        | Status |
 | :-: | :------------------------------------------ | :----: | - | :-: | :---------------------------------------- | :----: | - | :-: | :----------------------------- | :----: |
-| 1   | [Libft](https://github.com/Fatihcloud/Libft_42)               | ✅125  |   | 10A | cub3d                                      | 🔒     |   | 20  | NetPractice                    | 🔒      |
-| 2   | [Born2beroot]                               | 📝    |   | 10B | miniRT                                     | 🔒     |   | 21  | ft_containers                  | 🔒      |
-| 3   | [ft_printf](https://github.com/Fatihcloud/42ft_printf)                               | ✅100    |   | 11  | [CPP Module 00]                            | 🔒     |   | 22A | ft_irc                         | 🔒      |
-| 4   | [get_next_line](https://github.com/Fatihcloud/get_next_line_42)     | ✅125  |   | 12  | CPP Module 01                              | 🔒     |   | 22B | webserv                        | 🔒      |
+| 1   | [Libft](https://github.com/Fatihcloud/Libft_42)               | [![fbulut 42Project Score](https://badge42.herokuapp.com/api/project/fbulut/Libft)](https://github.com/Fatihcloud/Libft_42) |   | 10A | cub3d                                      | 🔒     |   | 20  | NetPractice                    | 🔒      |
+| 2   | [Born2beroot]                               | [![fbulut 42Project Score](https://badge42.herokuapp.com/api/project/fbulut/Born2beroot)](https://github.com/Fatihcloud/Libft_42)  |   | 10B | miniRT                                     | 🔒     |   | 21  | ft_containers                  | 🔒      |
+| 3   | [ft_printf](https://github.com/Fatihcloud/42ft_printf)                               | [![fbulut 42Project Score](https://badge42.herokuapp.com/api/project/fbulut/ft_printf)](https://github.com/Fatihcloud/42ft_printf)    |   | 11  | [CPP Module 00]                            | 🔒     |   | 22A | ft_irc                         | 🔒      |
+| 4   | [get_next_line](https://github.com/Fatihcloud/get_next_line_42)     | [![fbulut 42Project Score](https://badge42.herokuapp.com/api/project/fbulut/get_next_line)](https://github.com/Fatihcloud/get_next_line_42)  |   | 12  | CPP Module 01                              | 🔒     |   | 22B | webserv                        | 🔒      |
 | 5A  | FdF                                         | 🔒     |   | 13  | CPP Module 02                              | 🔒     |   | 23  | Inception                      | 🔒      |
 | 5B  | [so_long]                                   | 🔒     |   | 14  | CPP Module 03                              | 🔒     |   | 24  | ft_transcendence               | 🔒      |
 | 6A  | [minitalk]                                  | 🔒     |   | 15  | CPP Module 04                              | 🔒     |   |     |                                |         |
