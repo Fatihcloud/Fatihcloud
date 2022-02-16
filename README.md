@@ -35,8 +35,7 @@
 | 6B  | pipex                                       | 🔒     |   | 16  | CPP Module 05                              | 🔒     |   |     |                                |         |
 | 7   | [push_swap]                                 | 🔒     |   | 17  | CPP Module 06                              | 🔒     |   |     |                                |         |
 | 8   | [minishell]                                 | 🔒     |   | 18  | CPP Module 07                              | 🔒     |   |     |                                |         |
-| 9   | [Philosphers]                               | 🔒     |   | 19  | CPP Module 08                              | 🔒     |   | 25  | [netwhat](../../../42-netwhat) | 🔒      |
-
+| 9   | [Philosphers]                               | 🔒     |   | 19  | CPP Module 08                              | 🔒     |   |     | 
 ---
 
 ### 📈 My Github status:
