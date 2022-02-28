@@ -7,7 +7,7 @@
 ---
 
 - 👋 Hi, I’m @Fatihcloud
-- 🔭 I’m currently working on a Project named --**Born2beroot**-- you can check it [here](https://github.com/Fatihcloud/Libft)
+- 🔭 I’m currently working on a Project named --**MineTalk**-- you can check it [here](https://github.com/Fatihcloud)
 - 🌱 I’m currently learning : C , C++ , Arduino , Adobe Premiere Pro , Open Rocket , Python , Canva , GitHub
 - 📫 How to reach me [Instagram](https://www.instagram.com/fatihcloud/) - [Twitter](https://twitter.com/fatih_cloud) - [LinkedIn](https://www.linkedin.com/in/fatih-bulut-b240ba137)
 
