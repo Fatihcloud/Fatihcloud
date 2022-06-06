@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://github.com/barimehdi77/barimehdi77/blob/main/wave.gif" width="3px">
+# Hello, folks! <img src="https://github.com/barimehdi77/barimehdi77/blob/main/wave.gif" width="100px">
 ---
 
 ![Alt Text](https://github.com/Fatihcloud/Fatihcloud/blob/main/fatih%20(Facebook%20Kapak%20Foto%C4%9Fraf%C4%B1)%20(1280%20%C3%97%20720%20piksel)%20(Video)%20(1280%20%C3%97%20720%20piksel).gif)
@@ -8,7 +8,7 @@
 
 - 👋 Hi, I’m @Fatihcloud
 - 🔭 I’m currently working on a Project named --**So_Long**-- you can check it [here](https://github.com/Fatihcloud)
-- 🌱 I’m currently learning : C , C++ , Arduino , Adobe Premiere Pro , Open Rocket , Python , Canva , GitHub
+- 🌱 I’m currently learning : C , Java ,Python , C++ , Arduino , Adobe Premiere Pro , Open Rocket , Canva , GitHub
 - 📫 How to reach me [Instagram](https://www.instagram.com/fatihcloud/) - [Twitter](https://twitter.com/fatih_cloud) - [LinkedIn](https://www.linkedin.com/in/fatih-bulut-b240ba137)
 
 ---
