@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://github.com/barimehdi77/barimehdi77/blob/main/wave.gif" width="100px">
+# Hello, folks!
 ---
 
 ![Alt Text](https://github.com/Fatihcloud/Fatihcloud/blob/main/fatih%20(Facebook%20Kapak%20Foto%C4%9Fraf%C4%B1)%20(1280%20%C3%97%20720%20piksel)%20(Video)%20(1280%20%C3%97%20720%20piksel).gif)
