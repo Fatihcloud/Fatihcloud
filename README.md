@@ -12,10 +12,9 @@
 - 📫 How to reach me [Instagram](https://www.instagram.com/fatihcloud/) - [Twitter](https://twitter.com/fatih_cloud) - [LinkedIn](https://www.linkedin.com/in/fatih-bulut-b240ba137)
 
 ---
-
-[!["Buy Me A Pizza"](https://github.com/Fatihcloud/Fatihcloud/blob/main/buy%20me%20a%20pizza.png)](https://www.buymeacoffee.com/Fatihcloud)
+<!--[!["Buy Me A Pizza"](https://github.com/Fatihcloud/Fatihcloud/blob/main/buy%20me%20a%20pizza.png)](https://www.buymeacoffee.com/Fatihcloud)
 ![papara](https://github.com/Fatihcloud/Fatihcloud/blob/main/Ads%C4%B1z%20tasar%C4%B1m%20(2).png)
-
+-->
 ---
 
 ### 👨‍💻 My 42 status
