@@ -18,7 +18,7 @@
 ---
 
 ### 👨‍💻 My 42 status
-[![fbulut's 42 stats](https://badge42.vercel.app/api/v2/cl1ni4pyz008209jx6p25w644/stats?cursusId=21&coalitionId=207)](https://github.com/Fatihcloud)
+[![fbulut's 42 stats](https://badge42.vercel.app/api/v2/cl1ni4pyz008209jx6p25w644/stats?cursusId=21&coalitionId=230)](https://github.com/Fatihcloud)
 
 ---
 
