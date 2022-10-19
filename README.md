@@ -7,35 +7,16 @@
 ---
 
 - 👋 Hi, I’m @Fatihcloud
-- 🔭 I’m currently working on a Project named --**So_Long**-- you can check it [here](https://github.com/Fatihcloud)
-- 🌱 I’m currently learning : C , Java ,Python , C++ , Arduino , Adobe Premiere Pro , Open Rocket , Canva , GitHub
+- 🔭 I’m currently working on a Project named --** Necessary and unnecessary an application that interests me **--
+- 🌱 I’m currently learning : C , Java , Python , Flutter , Swift , Arduino , Open Rocket , Canva , GitHub
 - 📫 How to reach me [Instagram](https://www.instagram.com/fatihcloud/) - [Twitter](https://twitter.com/fatih_cloud) - [LinkedIn](https://www.linkedin.com/in/fatih-bulut-b240ba137)
 
 ---
+
 <!--[!["Buy Me A Pizza"](https://github.com/Fatihcloud/Fatihcloud/blob/main/buy%20me%20a%20pizza.png)](https://www.buymeacoffee.com/Fatihcloud)
 ![papara](https://github.com/Fatihcloud/Fatihcloud/blob/main/Ads%C4%B1z%20tasar%C4%B1m%20(2).png)
 -->
----
 
-### 👨‍💻 My 42 status
-[![fbulut's 42 stats](https://badge42.vercel.app/api/v2/cl1ni4pyz008209jx6p25w644/stats?cursusId=21&coalitionId=230)](https://github.com/Fatihcloud)
-
----
-
-## 42cursus Progress 💪🏻
-| No  | Project                                     | Status |   | No  | Project                                   | Status |   | No  | Project                        | Status |
-| :-: | :------------------------------------------ | :----: | - | :-: | :---------------------------------------- | :----: | - | :-: | :----------------------------- | :----: |
-| 1   | [Libft](https://github.com/Fatihcloud/Libft_42)|[![fbulut's 42 Libft Score](https://badge42.vercel.app/api/v2/cl1ni4pyz008209jx6p25w644/project/2450438)](https://github.com/Fatihcloud/Libft_42) |   | 10A | cub3d                                      | 🔒     |   | 20  | NetPractice                    | 🔒      |
-| 2   | [Born2beroot]|[![fbulut's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl1ni4pyz008209jx6p25w644/project/2495515)](https://github.com/Fatihcloud/Libft_42)  |   | 10B | miniRT                                     | 🔒     |   | 21  | ft_containers                  | 🔒      |
-| 3   | [ft_printf](https://github.com/Fatihcloud/42ft_printf)|[![fbulut's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl1ni4pyz008209jx6p25w644/project/2470342)](https://github.com/Fatihcloud/42ft_printf)|   | 11  | [CPP Module 00]                            | 🔒     |   | 22A | ft_irc                         | 🔒      |
-| 4   | [get_next_line](https://github.com/Fatihcloud/get_next_line_42)|[![fbulut's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl1ni4pyz008209jx6p25w644/project/2470343)](https://github.com/Fatihcloud/get_next_line_42)  |   | 12  | CPP Module 01                              | 🔒     |   | 22B | webserv                        | 🔒      |
-| 5A  |                                             |        |  | 13  | CPP Module 02                              | 🔒     |   | 23  | Inception                      | 🔒      |
-| 5B  | [so_long](https://github.com/Fatihcloud/42_so_long)|[![fbulut's 42 so_long Score](https://badge42.vercel.app/api/v2/cl1ni4pyz008209jx6p25w644/project/2607611)](https://github.com/Fatihcloud/42_so_long)|   | 14  | CPP Module 03                              | 🔒     |   | 24  | ft_transcendence               | 🔒      |
-| 6A  | [minitalk](https://github.com/Fatihcloud/MiniTalk)                                  |[![fbulut's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl1ni4pyz008209jx6p25w644/project/2512211)](https://github.com/Fatihcloud/)|   | 15  | CPP Module 04                              | 🔒     |   |     |                                |         |
-| 6B  | pipex                                       | 🔒     |   | 16  | CPP Module 05                              | 🔒     |   |     |                                |         |
-| 7   | [push_swap]                                 | 🔒     |   | 17  | CPP Module 06                              | 🔒     |   |     |                                |         |
-| 8   | [minishell]                                 | 🔒     |   | 18  | CPP Module 07                              | 🔒     |   |     |                                |         |
-| 9   | [Philosphers]                               | 🔒     |   | 19  | CPP Module 08                              | 🔒     |   |     | 
 ---
 
 ### 📈 My Github status:
