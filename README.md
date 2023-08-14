@@ -7,8 +7,6 @@
 ---
 
 - 👋 Hi, I’m @Fatihcloud
-- 🔭 I’m currently working on a Project named --** Necessary and unnecessary an application that interests me **--
-- 🌱 I’m currently learning : C , Java , Python , Flutter , Swift , Arduino , Open Rocket , Canva , GitHub
 - 📫 How to reach me [Instagram](https://www.instagram.com/fatihcloud/) - [Twitter](https://twitter.com/fatih_cloud) - [LinkedIn](https://www.linkedin.com/in/fatih-bulut-b240ba137)
 
 ---
