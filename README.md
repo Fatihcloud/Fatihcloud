@@ -6,22 +6,45 @@
 
 ---
 
-- 👋 Hi, I’m @Fatihcloud
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/fatih-bulut-b240ba137)
+## Hi there 👋
 
----
+I'm FCloud, a self-taught coder who loves building web apps. I received my CS education at [Ecole 42](https://42.fr/en/what-is-42/42-program-explained/). I'm passionate about science, technology, and learning new things.
 
-<!--[!["Buy Me A Pizza"](https://github.com/Fatihcloud/Fatihcloud/blob/main/buy%20me%20a%20pizza.png)](https://www.buymeacoffee.com/Fatihcloud)
-![papara](https://github.com/Fatihcloud/Fatihcloud/blob/main/Ads%C4%B1z%20tasar%C4%B1m%20(2).png)
--->
+### Reach me
 
----
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://tr.linkedin.com/in/fatihcloud)
 
-### 📈 My Github status:
-[![Apoorv's github && 42 stats](https://github-readme-stats.vercel.app/api?username=Fatihcloud&show_icons=true&theme=radical)](https://github.com/Fatihcloud)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatihcloud&layout=compact&theme=radical)](https://github.com/Fatihcloud)
+#### I've built applications with various tech stacks; here are the ones I use most frequently:
 
-<!---
-Fatihcloud/Fatihcloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Programming Languages
+
+<div>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
+</div>
+
+### Frameworks & Libraries
+
+<div>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
+</div>
+
+### Databases & Data Storage
+
+<div>
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</div>
+
+### Collaborate with me
+
+If you're interested in collaborating on a project or need help with something, feel free to reach out to me. I'm always happy to learn from others and contribute to the open-source community.
